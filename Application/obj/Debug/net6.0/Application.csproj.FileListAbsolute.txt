@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\NewStockApp\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\leona\source\repos\NewStockApp\Application\bin\Debug\net6.0\Application.dll
+C:\Users\leona\source\repos\NewStockApp\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\leona\source\repos\NewStockApp\Application\bin\Debug\net6.0\Database.dll
+C:\Users\leona\source\repos\NewStockApp\Application\bin\Debug\net6.0\Database.pdb
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\Application.dll
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\leona\source\repos\NewStockApp\Application\obj\Debug\net6.0\ref\Application.dll

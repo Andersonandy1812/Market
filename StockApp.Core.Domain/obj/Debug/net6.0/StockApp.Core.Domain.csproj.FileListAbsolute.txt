@@ -1,0 +1,48 @@
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.deps.json
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.AssemblyInfo.cs
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\refint\StockApp.Core.Domain.dll
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\ref\StockApp.Core.Domain.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.deps.json
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\refint\StockApp.Core.Domain.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Core.Domain\obj\Debug\net6.0\ref\StockApp.Core.Domain.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.deps.json
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.csproj.AssemblyReference.cache
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.AssemblyInfoInputs.cache
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.AssemblyInfo.cs
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.csproj.CoreCompileInputs.cache
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\refint\StockApp.Core.Domain.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.pdb
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\ref\StockApp.Core.Domain.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.deps.json
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.AssemblyInfo.cs
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\refint\StockApp.Core.Domain.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Core.Domain\obj\Debug\net6.0\ref\StockApp.Core.Domain.dll

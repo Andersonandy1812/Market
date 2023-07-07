@@ -1,0 +1,68 @@
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.deps.json
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.dll
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.pdb
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Application.dll
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Application.pdb
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.AssemblyReference.cache
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.AssemblyInfoInputs.cache
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.AssemblyInfo.cs
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.CopyComplete
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.dll
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\refint\StockApp.Infrastucture.Persistence.dll
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.pdb
+C:\Users\ltavarez\Desktop\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\ref\StockApp.Infrastucture.Persistence.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.deps.json
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.pdb
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Application.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Application.pdb
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.CopyComplete
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\refint\StockApp.Infrastucture.Persistence.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.pdb
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\ref\StockApp.Infrastucture.Persistence.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.deps.json
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.pdb
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Application.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Domain.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Application.pdb
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.AssemblyReference.cache
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.AssemblyInfoInputs.cache
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.AssemblyInfo.cs
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.CoreCompileInputs.cache
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.CopyComplete
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\refint\StockApp.Infrastucture.Persistence.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.pdb
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\ref\StockApp.Infrastucture.Persistence.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.deps.json
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Infrastucture.Persistence.pdb
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Application.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Application.pdb
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.AssemblyInfo.cs
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.csproj.CopyComplete
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\refint\StockApp.Infrastucture.Persistence.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\StockApp.Infrastucture.Persistence.pdb
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\StockApp.Infrastucture.Persistence\obj\Debug\net6.0\ref\StockApp.Infrastucture.Persistence.dll

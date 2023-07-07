@@ -1,0 +1,60 @@
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.AssemblyReference.cache
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.AssemblyInfoInputs.cache
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.AssemblyInfo.cs
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\ltavarez\Desktop\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Application.deps.json
+C:\Users\ltavarez\Desktop\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Application.dll
+C:\Users\ltavarez\Desktop\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Application.pdb
+C:\Users\ltavarez\Desktop\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\ltavarez\Desktop\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.CopyComplete
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.dll
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\refint\StockApp.Core.Application.dll
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.pdb
+C:\Users\ltavarez\Desktop\NewStockApp\Application\obj\Debug\net6.0\ref\StockApp.Core.Application.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Application.deps.json
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Application.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Application.pdb
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.CopyComplete
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\refint\StockApp.Core.Application.dll
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\StockApp.Core.Application.pdb
+C:\Users\leona\OneDrive\Escritorio\NewStockApp\Application\obj\Debug\net6.0\ref\StockApp.Core.Application.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Application.deps.json
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Application.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Application.pdb
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Domain.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.AssemblyReference.cache
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.AssemblyInfoInputs.cache
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.AssemblyInfo.cs
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.CoreCompileInputs.cache
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.CopyComplete
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\refint\StockApp.Core.Application.dll
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.pdb
+E:\Andy\Itla\Programacion_3\Periodo4\NewStockApp with login\Application\obj\Debug\net6.0\ref\StockApp.Core.Application.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Application.deps.json
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Application.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Application.pdb
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Domain.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\bin\Debug\net6.0\StockApp.Core.Domain.pdb
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.AssemblyInfo.cs
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.csproj.CopyComplete
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\refint\StockApp.Core.Application.dll
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\StockApp.Core.Application.pdb
+C:\Users\Owner\Downloads\With login 2.0\NewStockApp with login\Application\obj\Debug\net6.0\ref\StockApp.Core.Application.dll
